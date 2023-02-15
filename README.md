@@ -13,11 +13,6 @@
 * SmartOS folder contain the clone of smartcard.
 * Second Order DPA folder contains the implemented DPA attack on countermeasures.
 
-## Resources for the Lab
-
-* A template for your lab protocol can be found here: [here](./templates/benchmarks_template.md)
-* A template for the benchmark results can be found here: [here](./templates/lab_report_template.md)
-
 ## Useful (external) resources
 
  * Smart Card Handbook (online) - can be found [here](https://opac.ub.tum.de/search?bvnr=BV019271999)
