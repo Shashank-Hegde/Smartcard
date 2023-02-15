@@ -1,0 +1,42 @@
+data_traces
+num samples 75000
+ Window Size  2
+Rmax value for correlation  0.026021897880687275
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  9.414506912231445
+ 
+Window Size  4
+Rmax value for correlation  0.017180774024984132
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  4.75884485244751
+
+Window Size  5
+Rmax value for correlation  0.013763926810528885
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  3.9877617359161377
+
+ 
+Window Size  6
+Rmax value for correlation  0.013937882502254717
+Round Key  [100, 185, 74, 230, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  3.0190629959106445
+ 
+Window Size  8
+Rmax value for correlation  0.01148753674888054
+Round Key  [100, 185, 74, 68, 143, 30, 71, 168, 183, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  2.475813865661621
+ 
+Window Size  10
+Rmax value for correlation  0.010329172715004215
+Round Key  [251, 185, 74, 230, 143, 30, 71, 168, 74, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  2.0260140895843506
+ 
+
+ 
+ 

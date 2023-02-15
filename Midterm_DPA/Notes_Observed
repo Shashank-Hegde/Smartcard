@@ -1,0 +1,8 @@
+* With D Shunt Resistor, wrong key values were observed (with and without compression) due to the zero resistance across its ends.
+* With higher compression windows, correlation increases upto a certain limit, with better processing speed.
+* Minimum Traces to break the key was 1000 traces with 75000 samples.
+* Higher Samples and traces did not proportionate with higher correlation value
+
+__Phase 2__
+* Program memory with shuffling: 7764 bytes 
+* Data memory with shuffling: 1983 bytes 

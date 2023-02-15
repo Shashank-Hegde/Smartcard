@@ -1,0 +1,134 @@
+# __Lab Report - Smartcard__ 
+
+**Author:** Mishra, Shubham
+
+**Matr.:** 03752492
+
+**Group:** G1       
+
+
+## __First part: Smartcard Cloning__ ##
+
+* **Date:** *08/11/2022* to *20/11/2022*
+* **Tasks:Study and Understanding of Smart Card OS Implementation**          
+ * Task 1.1: Reading and unnderstanding the Lab Script.
+ * Task 1.2: Understanding of Smart Card OS. 
+ * Task 1.3: Study the ISO 7816 Standard.
+ * Task 1.4: Overview of the AtMega644 Chip.
+ 
+* **Date:** *21/11/2022* to *23/11/2022*
+* **Tasks:Software Installation and Setup**          
+ * Task 2.1: Installation of Eclipse. 
+ * Task 2.2: Installation of Logic Analyser.
+ * Task 2.3: Measurement using Logic Analyser of Reference Card.
+ 
+ 
+* **Date:** *24/11/2022* to *6/12/2022*
+* **Tasks:Code Development**          
+ * Task 3.1: Coding of ISO Standard.
+ * Task 3.2: Coding of state machine in main file.
+ * Task 3.3: Defining of macro's in workspace.
+ * Task 3.4: Execution of Reference Card OS with test_system script and assumed key.
+ * Task 3.5: Execution of Reference Card OS with test_system script and hacked key.
+ 
+* **Date:** *7/12/2022* to *11/12/2022*
+* **Tasks:Documentation and Analysis**          
+ * Task 4.1: Code upload on Gitlab.
+ * Task 4.2: Presentation for Mid-Term
+
+## __Second part: Attack on countermeasures__ ##
+
+* **Date:** *1/1/2023* to *6/1/2023*
+* **Tasks:Study and Understanding of DPA implementation against countermeasures**          
+ * Task 5.1: Understanding of possible countermeasure implementations.
+ * Task 5.2: Study of hiding, masking and random number generators.
+ * Task 5.3: Knowledge transfer of software - DPA code from Shashank and Suboshri.
+
+* **Date:** *7/1/2023* to *12/1/2023*
+* **Tasks:Software Installation and Setup**          
+ * Task 6.1: Installation of Python
+ * Task 6.2: Knowledge transfer of Hardware setup - Trace measurement setup and Picoscope.
+
+* **Date:** *13/1/2023* to *19/1/2023*
+* **Tasks: Trace Measurements**          
+ * Task 7.1: Trace Measurements on Masking, Shuffling implemented Smartcard.
+ * Task 7.2: Additional trace measurements for various shunt resistors to compare results.  
+ * Task 7.3: Trace Measurements on No Operation, Dummy Opertion on Smartcard.
+ * Task 7.4: Trace Measurements on Combinations of countermeasures on Smartcard.
+* **Date:** *20/1/2023* to *25/1/2023*
+* **Tasks: Trace Measurements and DPA Analysis**      
+ * Task 8.1: Additional trace measurements for various shunt resistors to compare results.
+ * Task 8.2: 2nd Order DPA Analysis on measurements taken.  
+ * Task 8.3: 2nd Order comparison with 1st order results.
+ * Task 8.4: Code upload on Gitlab.
+ * Task 8.5: Presentation for End-Term
+
+**Author:** Syed Usama, Minhaj
+
+**Matr.:** 03751313
+
+**Group:** G1       
+
+
+## __First part: Smartcard Cloning__ ##
+
+* **Date:** *08/11/2022* to *20/11/2022*
+* **Tasks:Study and Understanding of Smart Card OS Implementation**          
+ * Task 1.1: Reading and unnderstanding the Lab Script.
+ * Task 1.2: Understanding of Smart Card OS. 
+ * Task 1.3: Study the ISO 7816 Standard.
+ * Task 1.4: Overview of the AtMega644 Chip.
+ 
+* **Date:** *21/11/2022* to *23/11/2022*
+* **Tasks:Software Installation and Setup**          
+ * Task 2.1: Installation of Eclipse. 
+ * Task 2.2: Installation of Logic Analyser.
+ * Task 2.3: Measurement using Logic Analyser of Reference Card.
+ 
+ 
+ * **Date:** *24/11/2022* to *6/12/2022*
+* **Tasks:Code Development**          
+ * Task 3.1: Study of AES Implementation
+ * Task 3.2: Coding of UART 
+ * Task 3.3: Coding of Communication interface
+ * Task 3.4: Execution of Reference Card OS with test_system script and assumed key.
+ * Task 3.5: Execution of Reference Card OS with test_system script and hacked key.
+ 
+ * **Date:** *7/12/2022* to *11/12/2022*
+ * **Tasks:Documentation and Analysis**          
+ * Task 4.1: Code upload on Gitlab.
+ * Task 4.2: Presentation for Mid-Term
+
+## __Second part: Attack on countermeasures__ ##
+
+ * **Date:** *1/1/2023* to *6/1/2023*
+* **Tasks:Study and Understanding of DPA implementation against countermeasures**          
+ * Task 5.1: Understanding of possible countermeasure implementations.
+ * Task 5.2: Study of hiding, masking and random number generators.
+ * Task 5.3: Knowledge transfer of software - DPA code from Shashank and Suboshri.
+
+* **Date:** *7/1/2023* to *12/1/2023*
+* **Tasks:Software Installation and Setup**          
+ * Task 6.1: Installation of Python
+ * Task 6.2: Knowledge transfer of Hardware setup - Trace measurement setup and Picoscope.
+
+* **Date:** *13/1/2023* to *19/1/2023*
+* **Tasks: DPA implementation**          
+ * Task 7.1: Implementation of different functions used in DPA including downsampling and preprocessing
+ * Task 7.2: Implementation of second order DPA and verification of its functionality
+ 
+
+* **Date:** *13/1/2023* to *19/1/2023*
+* **Tasks: Trace Measurements and Analysis**          
+ * Task 8.1: Trace Measurements on Masking, Shuffling implemented Smartcard.
+ * Task 8.2: Modifying the code based on the trace measurements.  
+ * Task 8.3: Experimentation with different pre-processing functions on different counter measures.
+ * Task 8.4: Experimentation with different hypothetical power consumption values on different counter measures.
+
+* **Date:** *20/1/2023* to *25/1/2023*
+* **Tasks: Trace Measurements and DPA Analysis**      
+ * Task 9.1: Additional trace measurements for various shunt resistors to compare results.
+ * Task 9.2: 2nd Order DPA Analysis on measurements taken.  
+ * Task 9.3: 2nd Order comparison with 1st order results.
+ * Task 9.4: Code upload on Gitlab.
+ * Task 9.5: Presentation for Final-Term

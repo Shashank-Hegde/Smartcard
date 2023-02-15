@@ -1,0 +1,818 @@
+data_traces
+num samples 75000
+Window Size  16
+Rmax value for correlation  0.035118972240061504
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  1.7892498970031738
+ 
+Window Size  32
+Rmax value for correlation  0.03650382921015479
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  1.0276482105255127
+ 
+Window Size  48
+Rmax value for correlation  0.03712157234995547
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.7099850177764893
+ 
+Window Size  64
+Rmax value for correlation  0.03673971118515217
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.6186439990997314
+ 
+Window Size  80
+Rmax value for correlation  0.036506432274655755
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.5599660873413086
+ 
+Window Size  96
+Rmax value for correlation  0.036399648669426424
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  1.152994155883789
+ 
+Window Size  112
+Rmax value for correlation  0.03668507620979823
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.4809262752532959
+ 
+Window Size  128
+Rmax value for correlation  0.03595422969965338
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.5367410182952881
+ 
+Window Size  144
+Rmax value for correlation  0.03611626973421338
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  1.1998600959777832
+ 
+Window Size  160
+Rmax value for correlation  0.03532365080368781
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  1.1397600173950195
+ 
+Window Size  176
+Rmax value for correlation  0.03613412651425306
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.43518590927124023
+ 
+Window Size  192
+Rmax value for correlation  0.03532253261287663
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.28380799293518066
+ 
+Window Size  208
+Rmax value for correlation  0.03593575408317644
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.4433121681213379
+ 
+Window Size  224
+Rmax value for correlation  0.03566609306971473
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.3442251682281494
+ 
+Window Size  240
+Rmax value for correlation  0.03554723503534326
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.355010986328125
+ 
+Window Size  256
+Rmax value for correlation  0.03344457458600503
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.22998881340026855
+ 
+Window Size  272
+Rmax value for correlation  0.03485293402026972
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2435140609741211
+ 
+Window Size  288
+Rmax value for correlation  0.03320334667464392
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20532798767089844
+ 
+Window Size  304
+Rmax value for correlation  0.0339931961217603
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.247880220413208
+ 
+Window Size  320
+Rmax value for correlation  0.033629476797930345
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2325739860534668
+ 
+Window Size  336
+Rmax value for correlation  0.03270517582362233
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2733302116394043
+ 
+Window Size  352
+Rmax value for correlation  0.02993670634470929
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1933610439300537
+ 
+Window Size  368
+Rmax value for correlation  0.032463817275275204
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19827580451965332
+ 
+Window Size  384
+Rmax value for correlation  0.0313103538768604
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19955682754516602
+ 
+Window Size  400
+Rmax value for correlation  0.03205829583445703
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.26535606384277344
+ 
+Window Size  416
+Rmax value for correlation  0.03205532447085089
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.5086100101470947
+ 
+Window Size  432
+Rmax value for correlation  0.03302990511785364
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2856760025024414
+ 
+Window Size  448
+Rmax value for correlation  0.029721386872040526
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.24719500541687012
+ 
+Window Size  464
+Rmax value for correlation  0.03131283921518958
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2799978256225586
+ 
+Window Size  480
+Rmax value for correlation  0.03259400788736778
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.27741289138793945
+ 
+Window Size  496
+Rmax value for correlation  0.030110962364632544
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.26389598846435547
+ 
+Window Size  512
+Rmax value for correlation  0.0271591743124335
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.25345587730407715
+ 
+Window Size  528
+Rmax value for correlation  0.02703258749460144
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15499591827392578
+ 
+Window Size  544
+Rmax value for correlation  0.02972824143962659
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16507387161254883
+ 
+Window Size  560
+Rmax value for correlation  0.03168493368983628
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1535038948059082
+ 
+Window Size  576
+Rmax value for correlation  0.02830420368361891
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15819597244262695
+ 
+Window Size  592
+Rmax value for correlation  0.030781315689178856
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.21422314643859863
+ 
+Window Size  608
+Rmax value for correlation  0.031364527759812716
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20233702659606934
+ 
+Window Size  624
+Rmax value for correlation  0.029750678503406267
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.9205582141876221
+ 
+Window Size  640
+Rmax value for correlation  0.02888775706023745
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19333600997924805
+ 
+Window Size  656
+Rmax value for correlation  0.02997503491057299
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.866804838180542
+ 
+Window Size  672
+Rmax value for correlation  0.03053731771565102
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2602066993713379
+ 
+Window Size  688
+Rmax value for correlation  0.02963867144428849
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.27205896377563477
+ 
+Window Size  704
+Rmax value for correlation  0.027049166605136864
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2059929370880127
+ 
+Window Size  720
+Rmax value for correlation  0.029938940124685107
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16955971717834473
+ 
+Window Size  736
+Rmax value for correlation  0.027411512332269697
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1826472282409668
+ 
+Window Size  752
+Rmax value for correlation  0.02960425054694846
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16622424125671387
+ 
+Window Size  768
+Rmax value for correlation  0.02570335993355349
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16799712181091309
+ 
+Window Size  784
+Rmax value for correlation  0.02928302620560323
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.22849297523498535
+ 
+Window Size  800
+Rmax value for correlation  0.028926365633766646
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17746567726135254
+ 
+Window Size  816
+Rmax value for correlation  0.025621018912323556
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16487383842468262
+ 
+Window Size  832
+Rmax value for correlation  0.024975270722134273
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16762709617614746
+ 
+Window Size  848
+Rmax value for correlation  0.027201881826939535
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.3391530513763428
+ 
+Window Size  864
+Rmax value for correlation  0.028916040701169165
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1937568187713623
+ 
+Window Size  880
+Rmax value for correlation  0.02886927616217579
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1860501766204834
+ 
+Window Size  896
+Rmax value for correlation  0.028730035417575867
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1620190143585205
+ 
+Window Size  912
+Rmax value for correlation  0.028647851800964495
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.18541908264160156
+ 
+Window Size  928
+Rmax value for correlation  0.02865651401774618
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17143988609313965
+ 
+Window Size  944
+Rmax value for correlation  0.02756307580617659
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2992987632751465
+ 
+Window Size  960
+Rmax value for correlation  0.02527323420893867
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20125579833984375
+ 
+Window Size  976
+Rmax value for correlation  0.025762559267917984
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17335128784179688
+ 
+Window Size  992
+Rmax value for correlation  0.026403215540149457
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.18532609939575195
+ 
+Window Size  1008
+Rmax value for correlation  0.026446378208092498
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16118311882019043
+ 
+Window Size  1024
+Rmax value for correlation  0.027691217133448055
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.24030184745788574
+ 
+Window Size  1040
+Rmax value for correlation  0.02505449829403913
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.22698402404785156
+ 
+Window Size  1056
+Rmax value for correlation  0.02389567979773751
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17254137992858887
+ 
+Window Size  1072
+Rmax value for correlation  0.026114609379340133
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19175410270690918
+ 
+Window Size  1088
+Rmax value for correlation  0.027242344450204015
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1702280044555664
+ 
+Window Size  1104
+Rmax value for correlation  0.021812824570030157
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15990781784057617
+ 
+Window Size  1120
+Rmax value for correlation  0.0252755595709756
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17308902740478516
+ 
+Window Size  1136
+Rmax value for correlation  0.026035769350497426
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15334391593933105
+ 
+Window Size  1152
+Rmax value for correlation  0.022540841262040957
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17833495140075684
+ 
+Window Size  1168
+Rmax value for correlation  0.026080033282795526
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15581989288330078
+ 
+Window Size  1184
+Rmax value for correlation  0.021996610054042524
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19170093536376953
+ 
+Window Size  1200
+Rmax value for correlation  0.024497214606456347
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16730189323425293
+ 
+Window Size  1216
+Rmax value for correlation  0.02611406383031336
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1455552577972412
+ 
+Window Size  1232
+Rmax value for correlation  0.02305236572486574
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1737680435180664
+ 
+Window Size  1248
+Rmax value for correlation  0.02468794798922404
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15608501434326172
+ 
+Window Size  1264
+Rmax value for correlation  0.02214658329046354
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1580190658569336
+ 
+Window Size  1280
+Rmax value for correlation  0.02455908337571546
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15790271759033203
+ 
+Window Size  1296
+Rmax value for correlation  0.021842713346511503
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15693378448486328
+ 
+Window Size  1312
+Rmax value for correlation  0.023695254900052302
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15914702415466309
+ 
+Window Size  1328
+Rmax value for correlation  0.02286447994834849
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.18123221397399902
+ 
+Window Size  1344
+Rmax value for correlation  0.02241654428410623
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1484527587890625
+ 
+Window Size  1360
+Rmax value for correlation  0.023736576613751854
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.16233396530151367
+ 
+Window Size  1376
+Rmax value for correlation  0.023343643975797822
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.13732218742370605
+ 
+Window Size  1392
+Rmax value for correlation  0.025083393920856338
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.14586997032165527
+ 
+Window Size  1408
+Rmax value for correlation  0.024987418383109604
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20619916915893555
+ 
+Window Size  1424
+Rmax value for correlation  0.023119744175067354
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15505599975585938
+ 
+Window Size  1440
+Rmax value for correlation  0.022801419540432903
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.18782782554626465
+ 
+Window Size  1456
+Rmax value for correlation  0.0208837066574
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.14997601509094238
+ 
+Window Size  1472
+Rmax value for correlation  0.02452521564922224
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.164139986038208
+ 
+Window Size  1488
+Rmax value for correlation  0.0238400284207237
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.19739389419555664
+ 
+Window Size  1504
+Rmax value for correlation  0.021136314233595622
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15674495697021484
+ 
+Window Size  1520
+Rmax value for correlation  0.023697900768153216
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15687870979309082
+ 
+Window Size  1536
+Rmax value for correlation  0.021066291396755185
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16128110885620117
+ 
+Window Size  1552
+Rmax value for correlation  0.02132691813458957
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.26232218742370605
+ 
+Window Size  1568
+Rmax value for correlation  0.023232359840973858
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.15081501007080078
+ 
+Window Size  1584
+Rmax value for correlation  0.020585887463674915
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20546984672546387
+ 
+Window Size  1600
+Rmax value for correlation  0.020752804808570443
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.2535860538482666
+ 
+Window Size  1616
+Rmax value for correlation  0.02354856395361055
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.20649075508117676
+ 
+Window Size  1632
+Rmax value for correlation  0.020407111480935988
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 183, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.22966694831848145
+ 
+Window Size  1648
+Rmax value for correlation  0.020285982572360976
+Round Key  [100, 185, 74, 68, 224, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.16570210456848145
+ 
+Window Size  1664
+Rmax value for correlation  0.022508536959454102
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1361250877380371
+ 
+Window Size  1680
+Rmax value for correlation  0.020740999874284655
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15627217292785645
+ 
+Window Size  1696
+Rmax value for correlation  0.0181918395949913
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.15169596672058105
+ 
+Window Size  1712
+Rmax value for correlation  0.020791667489348856
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1668260097503662
+ 
+Window Size  1728
+Rmax value for correlation  0.022686416519495635
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15918397903442383
+ 
+Window Size  1744
+Rmax value for correlation  0.018299025326883118
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1586592197418213
+ 
+Window Size  1760
+Rmax value for correlation  0.018866888289966164
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.13396716117858887
+ 
+Window Size  1776
+Rmax value for correlation  0.021623789673364112
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.15356111526489258
+ 
+Window Size  1792
+Rmax value for correlation  0.021686864462921555
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15816593170166016
+ 
+Window Size  1808
+Rmax value for correlation  0.017984190407069334
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.13915395736694336
+ 
+Window Size  1824
+Rmax value for correlation  0.018893097125503595
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.17322874069213867
+ 
+Window Size  1840
+Rmax value for correlation  0.02154815024072437
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.11688709259033203
+ 
+Window Size  1856
+Rmax value for correlation  0.02184868619315686
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.13309407234191895
+ 
+Window Size  1872
+Rmax value for correlation  0.018271255825519195
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.1297461986541748
+ 
+Window Size  1888
+Rmax value for correlation  0.01857809043492663
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.11945796012878418
+ 
+Window Size  1904
+Rmax value for correlation  0.020975758720896825
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.13014912605285645
+ 
+Window Size  1920
+Rmax value for correlation  0.02113891550215839
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.14911603927612305
+ 
+Window Size  1936
+Rmax value for correlation  0.019412273595007
+Round Key  [100, 185, 74, 68, 224, 30, 71, 168, 183, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.1540849208831787
+ 
+Window Size  1952
+Rmax value for correlation  0.018222584244176523
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.13700413703918457
+ 
+Window Size  1968
+Rmax value for correlation  0.02010397617016577
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.14720487594604492
+ 
+Window Size  1984
+Rmax value for correlation  0.02005392971240839
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.14880084991455078
+ 
+Window Size  2000
+Rmax value for correlation  0.020971981731351827
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.15286612510681152
+ 
+Window Size  2016
+Rmax value for correlation  0.01894514446099502
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16941285133361816
+ 
+Window Size  2032
+Rmax value for correlation  0.018348943635627148
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.1216130256652832
+ 
+Window Size  2048
+Rmax value for correlation  0.019921099524047265
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 183, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.19089579582214355
+ 
+Window Size  2064
+Rmax value for correlation  0.02058993039137215
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.11925601959228516
+ 
+Window Size  2080
+Rmax value for correlation  0.020289035000064886
+Round Key  [83, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.13724422454833984
+ 
+Window Size  2096
+Rmax value for correlation  0.019198355750238927
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.203538179397583
+ 
+Window Size  2112
+Rmax value for correlation  0.018082550741397262
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.5220928192138672
+ 
+Window Size  2128
+Rmax value for correlation  0.019350525346823803
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.12644100189208984
+ 
+Window Size  2144
+Rmax value for correlation  0.02085531030708309
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.14604902267456055
+ 
+Window Size  2160
+Rmax value for correlation  0.01924277834686869
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 219, 221, 77, 16, 1, 73, 59, 64]
+ FAIL 
+time is  0.11228179931640625
+ 
+Window Size  2176
+Rmax value for correlation  0.019975190499497048
+Round Key  [100, 185, 74, 68, 32, 30, 71, 168, 121, 221, 77, 16, 1, 73, 59, 64]
+ SUCCESS 
+time is  0.16265606880187988
+ 
