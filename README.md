@@ -1,8 +1,3 @@
-# Welcome to the Smart Card Laboratory!
-
-## Directory Structure
-
-* Lab_reports folder contains the lab reports. The presentation slides of Midterm and Final topics are in the parent directory
 
 ## Part A work
 * Midterm_DPA folder contains the first order DPA script.
